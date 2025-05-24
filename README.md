@@ -62,7 +62,7 @@ This testing suite covers the complete user journey of an e-commerce application
 1. **Clone the repository**
    ```bash
    git clone https://github.com/saifalaasabelaish/QA-finalProject
-   cd QA-finalProject
+   cd qa-finalProject
    ```
 
 2. **Install dependencies**
